@@ -1,4 +1,4 @@
-## Aim of Thesis
+## Aim of Project
 
 _To Detect Brain Tumor and Classify it as Benign or Malignant using Image Processing techniques with the help of MATLAB._
 
